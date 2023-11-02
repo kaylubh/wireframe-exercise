@@ -65,6 +65,13 @@ main {
   width: 200px;
   background-color: black;
   color: whitesmoke;
+  font-size: 1rem;
+  transition: all .35s ease;
+}
+
+#callToAction button:hover {
+  background-color: whitesmoke;
+  color: black;
   font-size: 1.5rem;
 }
 
